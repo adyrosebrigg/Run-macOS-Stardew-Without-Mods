@@ -5,6 +5,6 @@ If you have SMAPI installed for mods, it can be annoying to manually disable mod
 
 Running this should launch the game's original binary, bypassing mod loading without any config changes needed.
 
-This is for the Steam version and should work if it's installed in the default location.
+This is for the Steam version and should work if Stardew is installed in the default location.
 
 Not heavily tested; ymmv. Enjoy.
